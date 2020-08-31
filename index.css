@@ -1,0 +1,26 @@
+* {
+    box-sizing: 
+}
+
+
+
+
+.row1{
+    float: left;
+}
+
+
+
+body{
+    font-size:100%;
+    background-image: url("");
+    background-repeat: repeat-x;
+
+}
+
+
+
+h1{
+    font-size: 1.5em;
+    color: aquamarine
+}
