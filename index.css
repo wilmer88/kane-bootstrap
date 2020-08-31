@@ -3,7 +3,10 @@
 }
 
 
-
+.nav-link-active{
+    float: right;
+    text-align: right;
+}
 
 .row1, p{
     float: left;
