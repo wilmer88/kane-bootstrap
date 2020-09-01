@@ -1,0 +1,36 @@
+*{
+
+    box-sizing:
+
+}
+
+
+.nav-link-active{
+    float: right;
+    text-align: right;
+}
+
+.row1, p{
+    float: left;
+}
+
+
+
+body{
+    font-size:100%;
+    background-image: url("");
+    background-repeat: repeat-x;
+
+}
+
+
+
+h1{
+    font-size: 1.5em;
+    color: aquamarine
+}
+
+.navbar-brand{
+    text-align: center;
+}
+
