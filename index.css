@@ -1,34 +1,10 @@
-* {
-    box-sizing: 
-}
-
-
-.nav-link-active{
-    float: right;
-    text-align: right;
-}
-
-.row1, p{
-    float: left;
-}
-
-
 
 body{
-    font-size:100%;
-    background-image: url("");
-    background-repeat: repeat-x;
 
+    background-color: gray
 }
 
-
-
-h1{
-    font-size: 1.5em;
-    color: aquamarine
+.me{
+    width: 30px
+    height:30px
 }
-
-.navbar-brand{
-    text-align: center;
-}
-
