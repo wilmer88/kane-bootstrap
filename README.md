@@ -15,6 +15,7 @@ The third file is the cantact card. html, like the name describes On the contact
 links to my other two pages.
 index and portfolio.
 
-![screenshot](./kane-bootstrap/card1.png)
-
+![screenshot](./assets/kane-bootstrap/card1.png)
+![screenshot](./assets/kane-bootstrap/portfolio.png)
+![screenshot](./assets/kane-bootstrap/contact1.png)
 they are not much, but is honest work.

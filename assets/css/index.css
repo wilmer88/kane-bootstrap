@@ -1,15 +1,13 @@
-
-body{
-
-    background-color: gray
-}
-
-.me{
-    width: 30px
-    height: 30px
-}
-
-.row2{
-
+* {
+  body {
     background-color: gray;
+  }
+
+  .me {
+    width: 30px;
+  }
+
+  .row2 {
+    background-color: gray;
+  }
 }
