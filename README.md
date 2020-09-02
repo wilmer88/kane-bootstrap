@@ -18,4 +18,4 @@ index and portfolio.
 ![screenshot](./assets/kane-bootstrap/card1.png)
 ![screenshot](./assets/kane-bootstrap/portfolio.png)
 ![screenshot](./assets/kane-bootstrap/contact1.png)
-they are not much, but is honest work.
+[this is the link to the page](https://wilmer88.github.io/kane-bootstrap/)
