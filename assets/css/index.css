@@ -1,13 +1,15 @@
-* {
-  body {
-    background-color: gray;
-  }
+body {
+  /* background-color: maroon; */
 
-  .me {
-    width: 30px;
-  }
+  background-image: url(../images/ignasi_pattern.png);
+}
 
-  .row2 {
-    background-color: gray;
-  }
+.nameandbackground {
+  background-color: aqua;
+  padding: 12px;
+  font-weight: 900;
+}
+
+.row2 {
+  background-color: gray;
 }
